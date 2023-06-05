@@ -1,0 +1,32 @@
+Paciente: Juan - 26 años - Biabetes
+Médico: Carlos - 54 años - Biabetologo
+Asignación: Médico Carlos asignado al paciente Juan
++---------------------+
+| Fecha y Hora        |
++---------------------+
+| 02/06/2023 10:25    |
++---------------------+
+Paciente: Juan - 35 años - Estres
+Médico: Esteban - 45 años - Interno
+Asignación: Médico Esteban asignado al paciente Juan
++---------------------+
+| Fecha y Hora        |
++---------------------+
+| 03/06/2023 11:45    |
++---------------------+
+Paciente: Luis - 35 años - Lupus
+Médico: Gerardo - 48 años - Dermatologo
+Asignación: Médico Gerardo asignado al paciente Luis
++---------------------+
+| Fecha y Hora        |
++---------------------+
+| 02/06/2023 11:45    |
++---------------------+
+Paciente: Victor - 26 años - Diabetes
+Médico: Jaime - 36 años - Diabetologo
+Asignación: Médico Jaime asignado al paciente Victor
++---------------------+
+| Fecha y Hora        |
++---------------------+
+| 02/06/2023 11:35    |
++---------------------+
