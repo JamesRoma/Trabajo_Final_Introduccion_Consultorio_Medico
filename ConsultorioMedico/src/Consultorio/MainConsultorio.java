@@ -58,7 +58,7 @@ public class MainConsultorio {
 
         int opcion = 0;
         while (opcion != 8) {
-            opcion = Integer.parseInt(JOptionPane.showInputDialog("Ingrese una opción:\n1. Agregar paciente\n2. Agregar médico\n3. Asignar médico a paciente\n4. Mostrar lista de pacientes\n5. Mostrar lista de médicos\n6. Buscar médico por nombre\n7. Buscar paciente por nombre\n8. Salir"));
+            opcion = Integer.parseInt(JOptionPane.showInputDialog("Ingrese una opción:\n1. Agregar paciente\n2. Agregar médico\n3. Asignar médico a paciente\n4. Mostrar lista de pacientes\n5. Mostrar lista de Médicos\n6. Buscar Médico por Nombre\n7. Buscar Paciente por Nombre\n8. Guardar Cita Médica"));
             switch (opcion) {
                 case 1:
                 	boolean valido0 = false;
